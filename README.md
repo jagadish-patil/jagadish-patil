@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jagadish Patil</h1>
-<h3 align="center">An Intermediate Web Developer.</h3>
+<h3 align="center">A Web Developer.</h3>
 
 
 - 🌱 Polishing my Skills in **React and Java.**
 
-- 👨‍💻 I like to showcase my work, check it out at [jagadish-patil](https://jagadishpatil.netlify.app/)
+- 👨‍💻 I love to showcase my work, check it out at [jagadish-patil](https://jagadishpatil.netlify.app/)
 
-- 📝 I love to write technical blogs to help beginners get started! Check them out at [jagadishpatil-blog](https://jagadishpatil.hashnode.dev/)
+- 📝 I like to write technical blogs to help beginners get started! Check them out at [jagadishpatil-blog](https://jagadishpatil.hashnode.dev/)
 
 - 💬 Hit me up, for discussions regarding **HTML, CSS, JavaScript, ReactJs and Java.**
 
