@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jagadish Patil</h1>
-<h3 align="center">A Web Developer.</h3>
+<h3 align="center">A Software Developer.</h3>
 
 
-- 🌱 Polishing my Skills in **React and Java.**
+- 🌱 Polishing my Skills in **Full Stack Development - Java (Spring Boot) and MERN.**
 
 - 👨‍💻 I love to showcase my work, check it out at [jagadish-patil](https://jagadishpatil.netlify.app/)
 
 - 📝 I like to write technical blogs to help beginners get started! Check them out at [jagadishpatil-blog](https://jagadishpatil.hashnode.dev/)
 
-- 💬 Hit me up, for discussions regarding **HTML, CSS, JavaScript, ReactJs and Java.**
+- 💬 Hit me up, for discussions regarding **Full Stack Development - HTML, CSS, JavaScript, ReactJs and Java (Spring Boot).**
 
 - 📫 Drop your query, or even simply a "HI 👋" on **jagadishpatil231@gmail.com**
 
-- 📄 Want to hire me? Check out my [Resume](https://drive.google.com/file/d/1-bYZrjXkP52-WyiVoN4JUePOHz1WSVh-/view?usp=sharing)
+- 📄 Want to hire me? Check out my [Resume](https://drive.google.com/file/d/1MU6SvYHokIuJyb7U5NRXAHtKmJkiPFgC/view?usp=share_link)
 
 
 ## Latest Blog Posts:
@@ -28,7 +28,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/_jagadishpatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_jagadishpatil" height="20" width="30" /></a>
+<a href="https://twitter.com/ijagadishpatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_jagadishpatil" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/jagadish-patil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jagadish-patil" height="20" width="30" /></a>
-<a href="https://www.instagram.com/_jagadishpatil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jagadishpatil" height="20" width="30" /></a>
+<a href="https://www.instagram.com/ijagadishpatil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jagadishpatil" height="20" width="30" /></a>
 </p>
