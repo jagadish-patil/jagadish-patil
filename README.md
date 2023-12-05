@@ -3,12 +3,15 @@
 
 
 - 🌱 Polishing my Skills in **Full Stack Development - Java (Spring Boot) and MERN.**
+    -  **Frontend - HTML, CSS, JavaScript, Ajax, jQuery**
+    -  **Backend  -  Java (Spring Boot)**
+    -  **Database - PostgreSQL**
 
 - 👨‍💻 I love to showcase my work, check it out at [jagadish-patil](https://jagadishpatil.netlify.app/)
 
 - 📝 I like to write technical blogs to help beginners get started! Check them out at [jagadishpatil-blog](https://jagadishpatil.hashnode.dev/)
 
-- 💬 Hit me up, for discussions regarding **Full Stack Development - HTML, CSS, JavaScript, ReactJs and Java (Spring Boot).**
+- 💬 Hit me up, for discussions regarding **Full Stack Development - HTML, CSS, JavaScript, Ajax,jQuery, PostgreSQL and Java (Spring Boot).**
 
 - 📫 Drop your query, or even simply a "HI 👋" on **jagadishpatil231@gmail.com**
 
