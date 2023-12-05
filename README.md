@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer.</h3>
 
 
-- 🌱 Polishing my Skills in **Full Stack Development - Java (Spring Boot) and MERN.**
+- 🌱 Polishing my Skills in **Full Stack Development - Java (Spring Boot).**
     -  **Frontend - HTML, CSS, JavaScript, Ajax, jQuery**
     -  **Backend  -  Java (Spring Boot)**
     -  **Database - PostgreSQL**
