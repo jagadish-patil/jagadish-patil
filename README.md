@@ -2,16 +2,16 @@
 <h3 align="center">A Software Developer.</h3>
 
 
-- 🌱 Polishing my Skills in **Full Stack Development - Java (Spring Boot), MERN.**
+- 🌱 Polishing my Skills in **Full Stack Development - Java (Spring Boot).**
     -  **Frontend - HTML, CSS, JavaScript, Ajax, jQuery, React**
-    -  **Backend  -  Java (Spring Boot), NodeJS**
-    -  **Database - MongoDB, MySQL, PostgreSQL**
+    -  **Backend  -  Java (Spring Boot)**
+    -  **Database - MySQL, PostgreSQL**
 
 - 👨‍💻 I love to showcase my work, check it out at [jagadish-patil](https://jagadishpatil.netlify.app/)
 
 - 📝 I like to write technical blogs to help beginners get started! Check them out at [jagadishpatil-blog](https://jagadishpatil.hashnode.dev/)
 
-- 💬 Hit me up, for discussions regarding **Full Stack Development - Java (Spring Boot), MERN.**
+- 💬 Hit me up, for discussions regarding **Full Stack Development - Java (Spring Boot).**
 
 - 📫 Drop your query, or even simply a "HI 👋" on **jagadishpatil231@gmail.com**
 
