@@ -15,7 +15,7 @@
 
 - 📫 Drop your query, or even simply a "HI 👋" on **jagadishpatil231@gmail.com**
 
-- 📄 Want to hire me? Check out my [Resume]([https://drive.google.com/file/d/1MU6SvYHokIuJyb7U5NRXAHtKmJkiPFgC/view?usp=share_link](https://docs.google.com/document/d/12GceymntcgEpyZ9f165XUIskzjRh3m-9uV-lV-eVrt0/edit?usp=sharing)]
+- 📄 Want to hire me? Check out my [Resume]([https://drive.google.com/file/d/1teupvi7FTd-f9uwPiiOD9oAtUkXqV2Eh/view?usp=sharing](https://drive.google.com/file/d/1teupvi7FTd-f9uwPiiOD9oAtUkXqV2Eh/view?usp=sharing)]
 
 
 ## Latest Blog Posts:
@@ -23,7 +23,6 @@
 - [var vs let vs const in JavaScript.](https://jagadishpatil.hashnode.dev/var-vs-let-vs-const-in-javascript)
 - [JavaScript ...Spread Operator.](https://jagadishpatil.hashnode.dev/javascript-spread-operator)
 - [Destructuring in JavaScript.](https://jagadishpatil.hashnode.dev/destructuring-in-javascript)
-- [Different aspects to know while building a website.](https://jagadishrpatil.com/different-aspects-to-know-while-building-a-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools : 
@@ -31,7 +30,6 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/ijagadishpatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_jagadishpatil" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/jagadish-patil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jagadish-patil" height="20" width="30" /></a>
 <a href="https://www.instagram.com/ijagadishpatil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jagadishpatil" height="20" width="30" /></a>
 </p>
