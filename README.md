@@ -15,7 +15,7 @@
 
 - 📫 Drop your query, or even simply a "HI 👋" on **jagadishpatil231@gmail.com**
 
-- 📄 Want to hire me? Check out my [Resume]([https://drive.google.com/file/d/1teupvi7FTd-f9uwPiiOD9oAtUkXqV2Eh/view?usp=sharing](https://drive.google.com/file/d/1teupvi7FTd-f9uwPiiOD9oAtUkXqV2Eh/view?usp=sharing)]
+- 📄 Want to hire me? Check out my [Resume]([https://drive.google.com/file/d/19ywxjmFBdfnrbp1EQKXH0Tj0FePOetR4/view?usp=sharing](https://drive.google.com/file/d/19ywxjmFBdfnrbp1EQKXH0Tj0FePOetR4/view?usp=sharing)]
 
 
 ## Latest Blog Posts:
