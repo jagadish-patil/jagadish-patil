@@ -3,19 +3,19 @@
 
 
 - 🌱 Polishing my Skills in **Full Stack Development - Java (Spring Boot).**
-    -  **Frontend - HTML, CSS, JavaScript, Ajax, jQuery, React**
+    -  **Frontend - HTML, CSS, JavaScript, Ajax, jQuery, React, Angular**
     -  **Backend  -  Java (Spring Boot)**
     -  **Database - MySQL, PostgreSQL**
 
-- 👨‍💻 I love to showcase my work, check it out at [jagadish-patil](https://jagadishpatil.netlify.app/)
+- 👨‍💻 I love to showcase my work, check it out at [jagadishpatil.netlify.app](https://jagadishpatil.netlify.app/)
 
-- 📝 I like to write technical blogs to help beginners get started! Check them out at [jagadishpatil-blog](https://jagadishpatil.hashnode.dev/)
+- 📝 I like to write technical blogs to help beginners get started! Check them out at [jagadishpatil.hashnode.dev](https://jagadishpatil.hashnode.dev/)
 
 - 💬 Hit me up, for discussions regarding **Full Stack Development - Java (Spring Boot).**
 
-- 📫 Drop your query, or even simply a "HI 👋" on **jagadishpatil231@gmail.com**
+- 📫 Drop your query, or even simply a "HI 👋" on **jagadishpatil.work@gmail.com**
 
-- 📄 Want to hire me? Check out my [Resume]([https://drive.google.com/file/d/19ywxjmFBdfnrbp1EQKXH0Tj0FePOetR4/view?usp=sharing](https://drive.google.com/file/d/19ywxjmFBdfnrbp1EQKXH0Tj0FePOetR4/view?usp=sharing)]
+- 📄 Want to hire me? Check out my [Resume]([https://drive.google.com/drive/folders/1xUblHF1aCVQ_f_7lY7zroay1kYqPploE?usp=sharing](https://drive.google.com/drive/folders/1xUblHF1aCVQ_f_7lY7zroay1kYqPploE?usp=sharing)]
 
 
 ## Latest Blog Posts:
